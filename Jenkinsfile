@@ -1,4 +1,4 @@
-Dpipeline {
+pipeline {
     agent any
 
     stages {
