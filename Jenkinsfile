@@ -8,11 +8,13 @@ pipeline {
             }
         }
         stage('Deploy') {
-            steps {
-        sh '''
-          pm2 stop jenkins-app || true
-          pm2 start app.js --name jenkins-app
-        '''
+    steps {
+        dir('jenkins-pipeline') {
+            sh '''
+              pm2 stop jenkins-app || true
+              pm2 start app.js --name jenkins-app
+            '''
+        }
     }
 }
 
