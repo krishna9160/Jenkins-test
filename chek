@@ -1,0 +1,55 @@
+Krishna Vamsi Veerisetti
+Cloud Infrastructure Engineer Gachibowli, Hyderabad - 500032
++91 9160547781
+veerisettikrishnavamsi@gmail.com
+
+SUMMARY
+DevOps / Cloud Infrastructure Engineer with 3 years of experience managing Kubernetes-based production environments and supporting cloud-native applications on AWS. Proficient in Kubernetes, Docker, Jenkins, GitHub Actions, Terraform, and Argo CD for CI/CD automation and GitOps-driven deployments. Experienced in AWS EKS administration, Infrastructure as Code (IaC), production deployments, incident management, and monitoring using Prometheus and Grafana. Skilled in maintaining highly available application environments, troubleshooting production issues, and ensuring reliable software delivery.
+
+SKILLS
+
+Cloud Platforms: AWS (EC2, IAM, VPC, EKS, ECR, S3, ALB, NLB, Route 53, CloudWatch, Auto Scaling
+Containerization & Orchestration: Kubernetes, Docker, Helm
+Kubernetes Concepts: Deployments, Services, ConfigMaps, Secrets, Ingress, Persistent Volumes, Horizontal Pod Autoscaler(HPA), RBAC, Taints & Tolerations, Node Affinity
+Infrastructure as Code: Terraform
+CI/CD & GitOps: Jenkins, GitHub Actions, Argo CD
+Monitoring & Observability: Prometheus, Grafana, Alert manager
+Version Control & Collaboration: Git, GitHub, Jira
+
+Scripting & Configuration: Shell Scripting, Python, YAML
+
+Operating Systems: Linux (Amazon Linux, Ubuntu)
+
+PROFESSIONAL EXPERIENCE
+Capgemini Technologies Services India LTD, Hyderabad - Cloud Infrastructure Engineer
+Technologies: Kubernetes, Docker, Prometheus, Grafana, Jenkins, Linux, Git, Terraform
+
+
+
+ 
+•	Managed Kubernetes-based production environments on AWS EKS, ensuring cluster health, application availability, and efficient resource utilization.
+•	Created and maintained Jenkins CI/CD pipelines and supported production deployment and release activities.
+•	Worked with Terraform to provision and manage cloud infrastructure using Infrastructure as Code (IaC) practices.
+•	Deployed and managed containerized applications on Kubernetes using YAML manifests and supported configuration updates across environments.
+•	Troubleshot production and deployment issues, supported application releases, and monitored application and infrastructure health using Prometheus and Grafana.
+
+Project
+
+AWS EKS Cloud-Native Microservices Application: Worked on a production-grade cloud-native microservices application hosted on AWS, leveraging Kubernetes and DevOps best practices. Contributed to infrastructure provisioning using Terraform, CI/CD automation with Jenkins and GitHub Actions, and GitOps-based deployments using Argo CD on Amazon EKS. Supported application deployment, monitoring, and observability using Prometheus and Grafana to maintain a scalable, reliable, and highly available platform.
+
+
+EDUCATION
+Bachelor Of Engineering - Mechanical Engineering
+Raghu Engineering College | 2019 - 2022
+
+
+AWARDS
+Recognized as “Star of the Quarter” for reliable production support and effective collaboration in resolving deployment and operational issues.
+Received client appreciation for successfully managing production deployments and resolving critical issues within SLA timelines.
+
+CERTIFICATIONS
+IBM Applied DevOps Engineering
+Issued Feb-2026
+
+Azure Administrator Associate
+Issued July 2023
